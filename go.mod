@@ -1,6 +1,6 @@
 module github.com/containers/gvisor-tap-vsock
 
-go 1.25.6
+go 1.26.0
 
 require (
 	github.com/Microsoft/go-winio v0.6.2
@@ -23,7 +23,7 @@ require (
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8
 	github.com/stretchr/testify v1.12.1
 	github.com/vishvananda/netlink v1.3.1
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	golang.org/x/mod v0.40.0
 	golang.org/x/net v0.58.0
 	golang.org/x/sync v0.22.0
